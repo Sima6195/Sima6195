@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there, I'm Simamkele 👋
 
-<!--
-**Sima6195/Sima6195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate Junior Full-Stack Developer who enjoys building web applications and continuously learning new technologies. I have experience developing responsive front-end interfaces with React.js and building back-end applications using Node.js and Express.js. I enjoy solving problems, collaborating with teams, and turning ideas into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tech Stack
+
+ Frontend: React.js, JavaScript, HTML, CSS, Bootstrap
+ Backend: Node.js, Express.js
+  Database: PostgreSQL
+  Tools: Git, GitHub, Figma
+
+Featured Project
+
+ BidZone Smartphone Bidding App
+
+A team-developed web application that allows auctioneers to create live smartphone auctions while users participate in real-time bidding.
+
+My contributions included:
+
+ Building UI components from Figma designs
+ Assisting with back-end development and database integration
+ Supporting feature implementation and debugging
+ Collaborating with a team using Git and GitHub
+
+ Currently Learning
+
+ Java
+Object-Oriented Programming (OOP)
+SQL & Database Design
+Full-Stack Application Development
+Clean Code & Best Practices
+
+ Goals
+
+I'm committed to improving my software development skills, contributing to meaningful projects, and growing into a skilled Full-Stack Software Developer.
+
+ Feel free to explore my repositories and connect with me!
