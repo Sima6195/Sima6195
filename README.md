@@ -6,20 +6,20 @@
 </p>
 
 ---
-
 ## About Me
 
-Passionate Junior Full-Stack Developer who enjoys building modern web applications and solving real-world problems.
+I am a proactive Junior Full-Stack Developer with experience contributing to team-based software development projects. I enjoy solving problems, learning new technologies, and building applications that deliver practical solutions.
 
-###  Experience
-- Built responsive front-end applications with **React.js**
-- Developed REST APIs using **Node.js** & **Express.js**
-- Worked with **PostgreSQL** databases
-- Currently expanding my skills in **Java** and **Object-Oriented Programming (OOP)**
-- Enjoy collaborating in team-based projects using **Git** and **GitHub**
+Through hands-on project experience, I have contributed to user interface development, backend functionality, database integration, feature implementation, and debugging while collaborating in an agile team environment.
 
-**Goal:** Become a skilled Full-Stack Software Developer while contributing to meaningful projects.
+ **What I'm focused on:** Building reliable, user-friendly applications and continuously improving my software development knowledge.
 
+**What I bring to a team:** A positive attitude, strong communication, adaptability, problem-solving skills, and a collaborative approach to achieving shared goals.
+
+
+
+ **Goal:** To grow into a skilled Full-Stack Software Developer by building impactful software and contributing to meaningful projects.
+  
 ---
 
 # My Tech Stack & Toolkit
