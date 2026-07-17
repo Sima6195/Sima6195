@@ -18,7 +18,7 @@ Passionate Junior Full-Stack Developer who enjoys building modern web applicatio
 - Currently expanding my skills in **Java** and **Object-Oriented Programming (OOP)**
 - Enjoy collaborating in team-based projects using **Git** and **GitHub**
 
-** Goal:** Become a skilled Full-Stack Software Developer while contributing to meaningful projects.
+Goal:Become a skilled Full-Stack Software Developer while contributing to meaningful projects.
 
 ---
 
