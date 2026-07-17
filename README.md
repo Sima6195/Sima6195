@@ -88,7 +88,7 @@ A web application that enables auctioneers to create live smartphone auctions wh
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
 
